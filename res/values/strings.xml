@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Posílač</string>
+    <string name="hwmenu">Start with HW menu</string>
+    <string name="hw">Start with HW menu...</string>
+    <string name="app_name2">Accelero v2</string>
+    <string name="accelero">Accelero V2</string>
+
+</resources>
